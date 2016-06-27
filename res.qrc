@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>step.ico</file>
+        <file>videocamera_run.png</file>
+        <file>videocamera_stop.png</file>
+        <file>step_png.png</file>
+        <file>step_stop_128x128.png</file>
+        <file>step_run_128x128.png</file>
+    </qresource>
+</RCC>
